@@ -6,6 +6,8 @@ An interactive to-do-list that allows user to
 - Remove to-do-list item from the list 
 
 Video Demo:
+
+
 ![To-Do-List demo](https://user-images.githubusercontent.com/57489399/99892540-b788e380-2cb0-11eb-844d-37a4372e70ba.gif)
 
 
