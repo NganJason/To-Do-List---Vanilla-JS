@@ -5,4 +5,7 @@ An interactive to-do-list that allows user to
 - Filter to-do-list according to completed, uncompleted or all
 - Remove to-do-list item from the list 
 
+Video Demo:
+https://user-images.githubusercontent.com/57489399/99892540-b788e380-2cb0-11eb-844d-37a4372e70ba.gif
+
 Tutorial Credit to Dev Ed: https://www.youtube.com/watch?v=Ttf3CEsEwMQ
