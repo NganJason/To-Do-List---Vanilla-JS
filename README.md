@@ -1,4 +1,4 @@
-# To-Do-List---Vanilla-JS
+# To-Do-List__Vanilla-JS
 
 An interactive to-do-list that allows user to 
 - Add to-do-list item
