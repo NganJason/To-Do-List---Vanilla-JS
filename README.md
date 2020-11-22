@@ -7,5 +7,7 @@ An interactive to-do-list that allows user to
 
 Video Demo:
 https://user-images.githubusercontent.com/57489399/99892540-b788e380-2cb0-11eb-844d-37a4372e70ba.gif
+![To-Do-List demo](https://user-images.githubusercontent.com/57489399/99892540-b788e380-2cb0-11eb-844d-37a4372e70ba.gif)
+
 
 Tutorial Credit to Dev Ed: https://www.youtube.com/watch?v=Ttf3CEsEwMQ
