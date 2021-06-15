@@ -1,14 +1,15 @@
-# To-Do-List__Vanilla-JS
+# To-Do-List-VanillaJS #
 
-An interactive to-do-list that allows user to 
-- Add to-do-list item
-- Filter to-do-list according to completed, uncompleted or all
-- Remove to-do-list item from the list 
+An simple to-do-list tutorial developed using Vanilla Javascript
 
-Video Demo:
+#### Features
+* Allow users to add to-do-list item
+* Allow users to filter to-do-list according to completed, uncompleted or all
+* Allow users to remove to-do-list item from the list 
 
+#### Tutorial
+* Dev Ed: https://www.youtube.com/watch?v=Ttf3CEsEwMQ
 
+## Demo Video ##
 ![To-Do-List demo](https://user-images.githubusercontent.com/57489399/99892540-b788e380-2cb0-11eb-844d-37a4372e70ba.gif)
 
-
-Tutorial Credit to Dev Ed: https://www.youtube.com/watch?v=Ttf3CEsEwMQ
