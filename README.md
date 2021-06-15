@@ -1,6 +1,6 @@
 # To-Do-List-VanillaJS #
 
-An simple to-do-list tutorial developed using Vanilla Javascript
+A simple to-do-list tutorial developed using Vanilla Javascript
 
 #### Features
 * Allow users to add to-do-list item
